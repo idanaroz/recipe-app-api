@@ -30,7 +30,6 @@ class UserAdmin(BaseUserAdmin):
         }),
     )
 
-
     list_filter = []  # to remove?
 
 
